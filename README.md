@@ -1,2 +1,2 @@
 # JupyterBinders
-Testing Jupyter Binder, which allows notebooks to be interactive
+Testing [Jupyter Binder](https://mybinder.org/), which allows notebooks to be interactive
