@@ -1,0 +1,8 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "my_new_suite",
+  "expectations": [],
+  "meta": {
+    "great_expectations_version": "0.12.0+14.g36f3c0a"
+  }
+}
